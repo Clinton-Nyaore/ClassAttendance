@@ -2,6 +2,7 @@
 
 Introducing "ClassAttendance using Computer Vision" – a groundbreaking project at the intersection of education and technology. This innovative solution harnesses the power of computer vision to revolutionize the way attendance is managed in classrooms. With real-time, automated attendance tracking, this project not only streamlines administrative tasks but also enhances the overall learning experience, ushering in a new era of efficiency and engagement in educational institutions. Say goodbye to traditional attendance registers and hello to a more accurate, seamless, and user-friendly attendance management system.
 
+# User Interface
 ![User interface](https://github.com/Clinton-Nyaore/ClassAttendancee/blob/main/screenshots/mark.png)
 
 ## Table of Contents
